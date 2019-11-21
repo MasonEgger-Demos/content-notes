@@ -9,11 +9,10 @@ for a large class, then you can either spin up multiple of these servers or
 use Kubernetes. 
 
 1. Pre-requisites for this Video
-    * Have a DigitalOcean Account
-    * Have a domain purchased (if you desire https with LetsEncrypt)
-    * DNS can be setup through DO, or through your own provider
-
-
+    * Access to or create a Virtual Private Server with Ubuntu 18.04 installed.
+    * Have a domain purchased (if you desire https with LetsEncrypt), if not
+    skip that part.
+    * Ability to create DNS records for your Domain if you have a Domain.
 2. Create a DigitalOcean Droplet
     * Must be Ubuntu 18.04
     * We're gonna go with the 4GB / 2 CPUs droplet
